@@ -3,13 +3,13 @@
 This repositry contains coursework material from my Electrical Machines Module in university 
 
 
-## 📄 Assignment
+## Assignment
 The coursework explores the finite element modelling of an isolation transformer using COMSOL Multiphysics. The objective is to understand the effects of core design, mesh refinement, and 2D vs. 3D simulation approaches on transformer behavior and proide a detailed yet onise technical report presenting these ideas.
 
 ## ⚠️ Academic Integrity
 This repository **does not** contain any original solution content, reports, or code, to comply with academic regulations.
 
-## 🧰 Tools Used
+## Tools I Used
 - COMSOL Multiphysics (FEA Simulation)
 - MATLAB (optional for circuit analysis)
 - Excel (data logging and curve fitting)
@@ -60,6 +60,6 @@ This repository **does not** contain any original solution content, reports, or 
   - I proposed two extensions: simulating core saturation under overload and including frequency-dependent losses.
   - These would provide deeper insight into performance under extreme conditions and harmonics.
 
-
-
+## What I Learnt
+Overall, I learnt a range of skills
   
