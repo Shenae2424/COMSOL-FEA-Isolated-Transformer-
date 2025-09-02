@@ -1,4 +1,4 @@
-# Finite Element Analysis of Iolation Transfromer 
+# Finite Element Analysis of Isolation Transfromer 
 
 This repositry contains coursework material from my Electrical Machines Module in university 
 
